@@ -1,2 +1,2 @@
 ## customer_segmentation
-Classification
+Classification (Supervised Learning)
