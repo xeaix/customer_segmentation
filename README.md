@@ -31,6 +31,6 @@ Ensemble learning method that combines multiple decision trees for improved accu
 
 The performance of each classification model is thoroughly evaluated using metrics such as accuracy, precision and error rate. A comparative analysis provides insights into the strengths and weaknesses of each algorithm in the context of customer segmentation.
 
-## Contributions and Feedback:
+### Contributions and Feedback:
 
 Contributions, bug reports, and feedback are highly encouraged. Feel free to submit issues or pull requests to enhance the functionality and performance of the classification models.
